@@ -67,6 +67,8 @@
 
     $ python3 test.py --word_dim 100 --word_lstm_dim 256 --dropout 0.2 --use_gpu 0 --gpu_id 0 --batch_size 128
 
+**参数说明**
+
 |参数|类型|默认值|备注|
 | ------------ | ------------ | ------------ | ------------ |
 |word_dim||int|100|词向量的维度|
